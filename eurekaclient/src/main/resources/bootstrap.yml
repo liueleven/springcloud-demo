@@ -1,3 +1,4 @@
+# 由配置中心统一管理
 spring:
   cloud:
     config:
