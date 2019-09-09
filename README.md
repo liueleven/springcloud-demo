@@ -1,2 +1,0 @@
-# springcloud-demo
-springcloud demo
